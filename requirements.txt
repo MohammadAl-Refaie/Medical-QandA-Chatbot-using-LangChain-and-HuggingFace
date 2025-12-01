@@ -1,0 +1,15 @@
+numpy
+pandas
+tqdm
+datasets
+matplotlib
+langchain-core
+langchain-community
+langchain-text-splitters
+pymongo
+transformers
+accelerate
+bitsandbytes
+torch
+sentence-transformers
+tk
