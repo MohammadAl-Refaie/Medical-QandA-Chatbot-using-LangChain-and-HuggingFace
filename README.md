@@ -23,7 +23,7 @@
 # Features 🚀
 **1- Retrieval-Augmented Generation**
 
-**2= Automatically retrieves the most relevant medical document using cosine similarity.**
+**2- Automatically retrieves the most relevant medical document using cosine similarity.**
 
 **3- MongoDB Vector Database**
 
